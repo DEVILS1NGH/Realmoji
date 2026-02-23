@@ -9,5 +9,5 @@
       "id": "265064055490871297"
     }
   ],
-  "main": "src/index.ts"
+  "main": "index.js"
 }
