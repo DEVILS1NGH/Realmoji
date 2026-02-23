@@ -1,5 +1,7 @@
 {
   "name": "Realmoji",
+  "id": "realmoji",
+  "version": "1.0.0",
   "description": "Makes freemojis real",
   "authors": [
     {
